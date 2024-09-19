@@ -2,7 +2,7 @@
 
 This is a simple Flask web application with unit tests. The application provides a basic REST API for managing a list of items. It serves as a starting point for learning how to create a Flask application and write tests for it.
 
-## Project Structures
+## Project Structure
 
 The project is organized as follows:
 
